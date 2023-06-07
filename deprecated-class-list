@@ -1,0 +1,17 @@
+# Bootstrap 5.3 deprecated class list
+.btn-close-white
+.carousel-dark
+.dropdown-header-padding-x
+.dropdown-header-padding-y
+.dropdown-menu-dark
+.hr-bg-color
+.hr-height
+.list-group-item-bg-scale
+.list-group-item-color-scale
+.navbar-dark
+.navbar-light
+.text-bg-dark
+.text-black-50
+.text-muted
+.text-white-50
+.tooltip-arrow-color
